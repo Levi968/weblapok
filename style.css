@@ -11,7 +11,7 @@ html,body{
 }
 body{
 position: relative;
-background-image: url(képek/háttér.jpg);
+background-image: url(háttér.jpg);
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
